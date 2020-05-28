@@ -1,0 +1,13 @@
+C:\Users\ABHISHEK BAKHAI\source\repos\DotNetPracticals\Practical6\bin\Debug\netcoreapp3.1\Practical6.exe
+C:\Users\ABHISHEK BAKHAI\source\repos\DotNetPracticals\Practical6\bin\Debug\netcoreapp3.1\Practical6.deps.json
+C:\Users\ABHISHEK BAKHAI\source\repos\DotNetPracticals\Practical6\bin\Debug\netcoreapp3.1\Practical6.runtimeconfig.json
+C:\Users\ABHISHEK BAKHAI\source\repos\DotNetPracticals\Practical6\bin\Debug\netcoreapp3.1\Practical6.runtimeconfig.dev.json
+C:\Users\ABHISHEK BAKHAI\source\repos\DotNetPracticals\Practical6\bin\Debug\netcoreapp3.1\Practical6.dll
+C:\Users\ABHISHEK BAKHAI\source\repos\DotNetPracticals\Practical6\bin\Debug\netcoreapp3.1\Practical6.pdb
+C:\Users\ABHISHEK BAKHAI\source\repos\DotNetPracticals\Practical6\obj\Debug\netcoreapp3.1\Practical6.csproj.CoreCompileInputs.cache
+C:\Users\ABHISHEK BAKHAI\source\repos\DotNetPracticals\Practical6\obj\Debug\netcoreapp3.1\Practical6.AssemblyInfoInputs.cache
+C:\Users\ABHISHEK BAKHAI\source\repos\DotNetPracticals\Practical6\obj\Debug\netcoreapp3.1\Practical6.AssemblyInfo.cs
+C:\Users\ABHISHEK BAKHAI\source\repos\DotNetPracticals\Practical6\obj\Debug\netcoreapp3.1\Practical6.dll
+C:\Users\ABHISHEK BAKHAI\source\repos\DotNetPracticals\Practical6\obj\Debug\netcoreapp3.1\Practical6.pdb
+C:\Users\ABHISHEK BAKHAI\source\repos\DotNetPracticals\Practical6\obj\Debug\netcoreapp3.1\Practical6.genruntimeconfig.cache
+C:\Users\ABHISHEK BAKHAI\source\repos\DotNetPracticals\Practical6\obj\Debug\netcoreapp3.1\Practical6.csprojAssemblyReference.cache

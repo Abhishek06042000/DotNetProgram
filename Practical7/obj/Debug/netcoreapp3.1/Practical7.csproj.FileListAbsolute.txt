@@ -1,0 +1,12 @@
+C:\Users\ABHISHEK BAKHAI\source\repos\DotNetPracticals\Practical7\bin\Debug\netcoreapp3.1\Practical7.exe
+C:\Users\ABHISHEK BAKHAI\source\repos\DotNetPracticals\Practical7\bin\Debug\netcoreapp3.1\Practical7.deps.json
+C:\Users\ABHISHEK BAKHAI\source\repos\DotNetPracticals\Practical7\bin\Debug\netcoreapp3.1\Practical7.runtimeconfig.json
+C:\Users\ABHISHEK BAKHAI\source\repos\DotNetPracticals\Practical7\bin\Debug\netcoreapp3.1\Practical7.runtimeconfig.dev.json
+C:\Users\ABHISHEK BAKHAI\source\repos\DotNetPracticals\Practical7\bin\Debug\netcoreapp3.1\Practical7.dll
+C:\Users\ABHISHEK BAKHAI\source\repos\DotNetPracticals\Practical7\bin\Debug\netcoreapp3.1\Practical7.pdb
+C:\Users\ABHISHEK BAKHAI\source\repos\DotNetPracticals\Practical7\obj\Debug\netcoreapp3.1\Practical7.csproj.CoreCompileInputs.cache
+C:\Users\ABHISHEK BAKHAI\source\repos\DotNetPracticals\Practical7\obj\Debug\netcoreapp3.1\Practical7.AssemblyInfoInputs.cache
+C:\Users\ABHISHEK BAKHAI\source\repos\DotNetPracticals\Practical7\obj\Debug\netcoreapp3.1\Practical7.AssemblyInfo.cs
+C:\Users\ABHISHEK BAKHAI\source\repos\DotNetPracticals\Practical7\obj\Debug\netcoreapp3.1\Practical7.dll
+C:\Users\ABHISHEK BAKHAI\source\repos\DotNetPracticals\Practical7\obj\Debug\netcoreapp3.1\Practical7.pdb
+C:\Users\ABHISHEK BAKHAI\source\repos\DotNetPracticals\Practical7\obj\Debug\netcoreapp3.1\Practical7.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\ABHISHEK BAKHAI\source\repos\DotNetPracticals\Practical9FormsApp\bin\Debug\Practical9FormsApp.exe.config
+C:\Users\ABHISHEK BAKHAI\source\repos\DotNetPracticals\Practical9FormsApp\bin\Debug\Practical9FormsApp.exe
+C:\Users\ABHISHEK BAKHAI\source\repos\DotNetPracticals\Practical9FormsApp\bin\Debug\Practical9FormsApp.pdb
+C:\Users\ABHISHEK BAKHAI\source\repos\DotNetPracticals\Practical9FormsApp\obj\Debug\Practical9FormsApp.csprojAssemblyReference.cache
+C:\Users\ABHISHEK BAKHAI\source\repos\DotNetPracticals\Practical9FormsApp\obj\Debug\Practical9FormsApp.Form1.resources
+C:\Users\ABHISHEK BAKHAI\source\repos\DotNetPracticals\Practical9FormsApp\obj\Debug\Practical9FormsApp.Properties.Resources.resources
+C:\Users\ABHISHEK BAKHAI\source\repos\DotNetPracticals\Practical9FormsApp\obj\Debug\Practical9FormsApp.csproj.GenerateResource.cache
+C:\Users\ABHISHEK BAKHAI\source\repos\DotNetPracticals\Practical9FormsApp\obj\Debug\Practical9FormsApp.csproj.CoreCompileInputs.cache
+C:\Users\ABHISHEK BAKHAI\source\repos\DotNetPracticals\Practical9FormsApp\obj\Debug\Practical9FormsApp.exe
+C:\Users\ABHISHEK BAKHAI\source\repos\DotNetPracticals\Practical9FormsApp\obj\Debug\Practical9FormsApp.pdb
